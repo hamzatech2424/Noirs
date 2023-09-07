@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "965828394069",
+    "project_id": "noir-s",
+    "storage_bucket": "noir-s.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:965828394069:android:8bad5c4fbd39d6f4b7a8dc",
+        "android_client_info": {
+          "package_name": "com.noirs"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "965828394069-cplubfsdl37llp7bgslt0f5bup5q2buc.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.noirs",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "965828394069-g943stpgmtspeioqd8ik0kok3qe789qt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBLZwXcb_H4r6YF90mIy_lhQiOgXqXX1Lg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "965828394069-g943stpgmtspeioqd8ik0kok3qe789qt.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "965828394069-i2f4b6otrc3bh6jp4lihfln82ftjhsgg.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "org.reactjs.native.example.noirs"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

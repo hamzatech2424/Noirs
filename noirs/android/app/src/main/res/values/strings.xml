@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">noirs</string>
+
+    <string name="facebook_app_id">923907045587253</string>
+    <string name="fb_login_protocol_scheme">fb1234</string>
+    <string name="facebook_client_token">52f2f0069d319b95249b74cf4d8418df</string>
+    
+</resources>
